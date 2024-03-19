@@ -1,0 +1,30 @@
+body{
+    margin: 20px 40px;
+}
+
+#global{
+    display: grid;
+    grid-template-columns: 100px 60% auto;
+    grid-template-rows: 100 px auto;
+}
+
+header{
+    background-color: darkgrey;
+}
+
+nav{
+    background-color: beige;
+}
+
+main{
+    background-color: coral;
+}
+aside{
+    background-color: lightblue;
+
+}
+
+footer{
+    color: darkolivegreen;
+    background-color: lightpink;
+}
